@@ -1,2 +1,2 @@
 # history-of-sociology
-This is a read me file. To be continued.
+Scripts to clean the Sociology corpus used in Seperating the wheat from the chaff
